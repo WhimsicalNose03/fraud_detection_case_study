@@ -1,7 +1,7 @@
 # Fraud Detection Case Study
 
 ### Premise
-You are a contract data scientist/consultant hired by a new e-commerce site to try to weed out fraudsters. The company unfortunately does not have much data science expertise... so you must properly scope and present your solution to the manager before you embark on your analysis. Also, you will need to build a sustainable software project that you can hand off to the companies engineers by deploying your model in the cloud. Since others will potentially use/extend your code you NEED to properly encapsulate your code and leave plenty of comments.
+You are a contract data scientist/consultant hired by a new e-commerce site to try to filter out fraudsters. The company oursources all data science work, so you must properly scope and present your solution to the manager before you embark on your analysis. You will also need to build a sustainable software project that you will devliver to the company engineers to deploy your model in the cloud. Since others will potentially use/extend your code you NEED to properly encapsulate your code and leave plenty of comments.
 
 ### Overview
 - The Team's slideshow presentation can be found [here](https://docs.google.com/presentation/d/18Cjmb0vYKc3gODhvI9Pd0EpG34irc41pNJ-zUGMSC64/edit?usp=sharing)
